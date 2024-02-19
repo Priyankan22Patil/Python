@@ -1,0 +1,55 @@
+{
+  "1":
+  {
+    "green": "a color",
+    "peace": "state of mind",
+    "lebron": "First name of great NBL player",
+    "asparagus": "a vegetable",
+    "tkinter": "a python library for GUI",
+    "tensorflow": "widely used python library for machine learning",
+    "lagoon": "A body of water",
+    "bungalow": "A type of house with a sloppy roof",
+    "aurora": "The dawn in early morning",
+    "lullaby": "A melody that mothers sing to their babies to get them to sleep",
+    "longitude": "coordinate that specifies the east west position of a point on the surface of the Earth",
+    "latitude": "coordinate that specifies the north south position of a point on the surface of the Earth",
+    "altitude": "the height of an object or point in relation to sea level or ground level",
+    "rainbow": "An arch of colours in the sky",
+    "gibberish": "meaningless words",
+    "zenith": "The highest, most successful point of a situation",
+    "shaquille": "First name of a famous NBL player",
+    "massachusetts" : "One of the state in USA"
+  },
+  "2":
+  {
+      "lithe": "full of grace",
+      "demure": "modest shy",
+      "pristine": "Extremely clean",
+      "plethora": "An abundance of something",
+      "erratic": "unpredictable",
+      "lunatic": "cracy, idiotic",
+      "elegance": "High quality of style and class",
+      "silhouette": "the shape and outline of someone or something visible ",
+      "miraculous": "Something that is a miracle",
+      "ripple": "A small movement or wave",
+      "ephemeral": "Short-lived",
+      "paradox": "Something that contradicts itself",
+      "euphoria": "A state of extreme happiness",
+      "felicity": "Happiness",
+      "ethereal": "Heavenly, not from this planet",
+      "flawsome": "A person who accepts their flaws and is awesome regardless",
+      "lassitude": "A state of physical or mental lack of energy; tiredness"
+  },
+   "3": {
+     "eloquence": "Ability to beautifully express oneself",
+     "idyllic": "Picturesque, beautiful, almost fairytale-like",
+     "labyrinth": "A complex set of passageways",
+     "opulence": "Luxury",
+     "scintilla": "A trace or spark of something",
+     "wanderlust": "A strong desire to travel",
+     "tranquility": "Another word for peace",
+     "ineffable": "Difficult to accurately describe",
+     "felicity": "Happiness",
+     "luminescence": "Light produced by electric, chemical, or physiological means"
+   }
+  }
